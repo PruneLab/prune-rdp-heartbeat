@@ -1,5 +1,6 @@
 # RDP Heartbeat
 
+🌐 **Official Website:** [PruneLab - RDP Heartbeat](https://prunelab.net/products/rdp-heartbeat/)
 **A subtle, visual heartbeat for your remote desktop sessions.**
 
 <a href="https://apps.microsoft.com/detail/9pc7fzmd5xkv?mode=mini">
@@ -74,3 +75,10 @@ The executable will be located in the `dist` folder.
 ---
 
 *Created to make remote work a little less stressful.*
+
+🏠 **Discover more powerful desktop tools at [prunelab.net](https://prunelab.net).**
+
+---
+
+### 🛡️ Privacy
+This application operates entirely locally with **zero internet access and zero telemetry**. For more details, please review our [Privacy Policy](https://prunelab.net/products/rdp-heartbeat/privacy.html).

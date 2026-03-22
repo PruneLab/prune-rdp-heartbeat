@@ -1,5 +1,6 @@
 # RDP Heartbeat (中文说明)
 
+🌐 **官方网站:** [PruneLab - RDP Heartbeat](https://prunelab.net/products/rdp-heartbeat/)
 **一款极简的远程桌面“保活”呼吸灯。**
 
 > **[Click here for English Readme](README.md)**
@@ -70,3 +71,10 @@ python build_release.py
 ---
 
 *Created to make remote work a little less stressful.*
+
+🏠 **探索更多强大的桌面工具，请访问 [prunelab.net](https://prunelab.net)。**
+
+---
+
+### 🛡️ 隐私安全
+本软件承诺 100% 纯本地运行，无任何联网权限，零后台遥测。欲了解更多详情，请审阅我们的[隐私政策](https://prunelab.net/zh/products/rdp-heartbeat/privacy.html)。
